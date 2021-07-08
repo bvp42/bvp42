@@ -8,6 +8,6 @@
            <h3>🎇I’m looking to collaborate on developing opensource software and developing solutions with AI</h3><br> 
       </p>
   You can reach me at 
-        <a href="https://www.linkedin.com/in/brandon-v-9570a514a"><img src="https://techcrunch.com/wp-content/uploads/2014/02/linkedin_logo.png?w=1390&crop=1" width=20px heigth=20px></a>
+        <a href="https://www.linkedin.com/in/bvp42"><img src="https://techcrunch.com/wp-content/uploads/2014/02/linkedin_logo.png?w=1390&crop=1" width=20px heigth=20px></a>
     </body>
 </html>
