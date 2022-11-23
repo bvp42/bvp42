@@ -3,7 +3,7 @@
   <h1>😎Hi, I’m @bvp42 a forming Computer Scientist</h1>
     <body>
       <p>
-           <h3>👀 I’m interested in developing aplications, artificial intelligence, system administration,electronics and mainframes</h3><br>
+           <h3>👀 I’m interested in developing aplications, artificial intelligence, system administration and electronics </h3><br>
            <h3>🕵️‍♂️ I’m currently learning power electronics, server administration, concurrent programming and networking</h3><br>
            <h3>🎇I’m looking to collaborate on developing opensource software and developing solutions with AI</h3><br> 
       </p>
