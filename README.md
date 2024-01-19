@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <h1>😎Hi, I’m @bvp42 a forming Computer Scientist</h1>
+  <h1>😎Hi, I’m @bvp42 a Software Engineer</h1>
     <body>
       <p>
            <h3>👀 I’m interested in developing aplications, artificial intelligence, system administration and electronics </h3><br>
