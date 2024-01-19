@@ -9,7 +9,8 @@
       </p>
   You can reach me at 
         <a href="https://www.linkedin.com/in/bvp42"><img src="https://techcrunch.com/wp-content/uploads/2014/02/linkedin_logo.png?w=1390&crop=1" width=20px heigth=20px></a>
+      <br>
   Check my portfolio at
-      <a href="https://portfolio.bvp42.com">
+      <a href="https://portfolio.bvp42.com">Portfolio</a>
     </body>
 </html>
