@@ -1,8 +1,24 @@
-# 😎 Hi, I’m @bvp42, a Software Engineer
+# 😎 Hi, I’m @bvp42 — Software Engineer | Cloud Enthusiast | AI Explorer
 
-### 👀 I’m interested in developing applications, artificial intelligence, system administration, and electronics  
-### 🕵️‍♂️ I’m currently learning web development and cloud technologies  
-### 🎇 I’m looking to collaborate on software development and AI-based solutions  
+### 👀 Interests  
+- Building backend systems with modern technologies  
+- Designing scalable cloud architectures (AWS Certified)  
+- Exploring AI for real-world problem solving (drug discovery, GANs, telomerase inhibition)  
+- Developing smart solutions in web, data, and electronics  
+- Contributing to meaningful open-source and MVP-style projects  
+
+### 🧠 Currently Learning  
+- FastAPI, Django & Celery for scalable APIs  
+- Cloud-native development with AWS  
+- MLOps and model deployment workflows  
+- Advanced Python for automation and tooling  
+
+### 🤝 Let’s Collaborate  
+I'm open to building real, useful tools — especially in:  
+- Cloud-based platforms  
+- Research software (e.g., for specialty coffee or molecular AI)  
+- Social platforms for scientific collaboration  
+
 
 ---
 
