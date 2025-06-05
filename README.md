@@ -33,3 +33,4 @@ I'm open to building real, useful tools — especially in:
 ---
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvp42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvp42)](https://github.com/anuraghazra/github-readme-stats)
