@@ -1,16 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-  <h1>😎Hi, I’m @bvp42 a Software Engineer</h1>
-    <body>
-      <p>
-           <h3>👀 I’m interested in developing aplications, artificial intelligence, system administration and electronics </h3><br>
-           <h3>🕵️‍♂️ I’m currently learning web development and cloud technologies</h3><br>
-           <h3>🎇I’m looking to collaborate on developing software and developing solutions with AI</h3><br> 
-      </p>
-  You can reach me at 
-        <a href="https://www.linkedin.com/in/bvp42"><img src="https://techcrunch.com/wp-content/uploads/2014/02/linkedin_logo.png?w=1390&crop=1" width=20px heigth=20px></a>
-      <br>
-  Check my portfolio at
-      <a href="https://portfolio.bvp42.com">Portfolio</a>
-    </body>
-</html>
+# 😎 Hi, I’m @bvp42, a Software Engineer
+
+### 👀 I’m interested in developing applications, artificial intelligence, system administration, and electronics  
+### 🕵️‍♂️ I’m currently learning web development and cloud technologies  
+### 🎇 I’m looking to collaborate on software development and AI-based solutions  
+
+---
+
+📫 You can reach me at:  <a href="https://www.linkedin.com/in/bvp42">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" alt="LinkedIn"/>
+</a>
+
+
+
+🌐 Check my portfolio at: [portfolio.bvp42.com](https://wwww.bvp42.com)
+
+---
+
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvp42)
